@@ -1,0 +1,14 @@
+.sidebar_row{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.sidebar_row:hover{
+    background-color: lightgray;
+}
+.sidebar_row >h3{
+    margin-left: 20px;
+    font-weight: 600;
+
+}
